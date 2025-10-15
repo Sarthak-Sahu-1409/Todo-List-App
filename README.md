@@ -1,4 +1,20 @@
-Step by step
+Step by Step
 
-1. cd backend && npm init -y && npm install mongoose express cors && node server.js
-2. cd frontend && npx create-react-app@latest frontend && npm i && npm start
+```bash
+cd backend
+
+npm init -y
+
+npm install express mongoose cors
+
+node server.js
+```
+```
+cd frontend
+
+npx create-react-app@latest frontend
+
+npm install
+
+npm start
+```
